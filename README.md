@@ -1,4 +1,4 @@
 # Python Tutorial
 
-This Jupyter Book is used as notes for my python course.
+This repository is a collection of python tutorials.
 
