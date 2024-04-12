@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: Introduction
+  chapters:
+  - file: computer_basics
+  - file: programming_general
+  - file: overview
+- caption: DataTypes
+  chapters:
+  - file: lists
+  - file: dictionaries
+  - file: tuples
+  - file: sets
