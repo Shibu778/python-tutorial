@@ -31,4 +31,4 @@ html:
   use_issues_button: true
   use_repository_button: true
   google_analytics_id: ""  # A GA id that can be used to track book views.
-  baseurl: "https://shibumeher.netlify.app/notes/python_tutorial"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl: "https://shibu778.github.io/python-tutorial/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
