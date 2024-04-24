@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: Getting Started
+  chapters:
+  - file: getting_started/computer_basics
+  - file: getting_started/overview
+- caption: DataTypes and Operations
+  chapters:
+  - file: datatypes_operations/lists
+  - file: datatypes_operations/dictionaries
+  - file: datatypes_operations/tuples
+  - file: datatypes_operations/sets
