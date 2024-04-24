@@ -1,4 +1,4 @@
 # Python Tutorial
 
-This repository is a collection of python tutorials.
+This repository contains source files for the Python Tutorial jupyter book that we are working on.
 
